@@ -4,8 +4,7 @@ This code is a working emulator for a rotary encoder. Rotary encoders convert th
 
 A rotary encoder sends two square waves as signals to a given driver. When rotated by one step, the two pins will connect and disconnect successively, resulting in a phase shift of 90 degrees. The following image depicts what this signal looks like. 
 (credit: 
-<a href="https://www.youtube.com/watch?v=v4BbSzJ-hz4" target="_blank">How To Mechatronics</a>
-)
+<a href="https://www.youtube.com/watch?v=v4BbSzJ-hz4" target="_blank">How To Mechatronics</a>)
 
 <img width="1946" height="810" alt="image" src="https://github.com/user-attachments/assets/5db21d06-2691-4106-ab4b-0baaaa074d87" />
 
