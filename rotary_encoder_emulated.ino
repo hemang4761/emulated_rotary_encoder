@@ -49,8 +49,6 @@ void setup() {
 
   pinMode(pinA, OUTPUT);
   pinMode(pinB, OUTPUT);
-  pinMode(orangePin, OUTPUT);
-  pinMode(whitePin, OUTPUT);
 
   // Startup Opacity (Resets down to 0, Sets to a starting opacity value depending on user needs) 
   updatePins();
