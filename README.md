@@ -18,5 +18,5 @@ This code emulates that using two digital pins and changing their states in a si
 An Arduino with this code can replace the position of a rotary encoder, using two pins as the two signals for the switch. Delays and increment counts can be adjusted for user needs. Attached below is a video of PDLC Film being controlled by our emulated rotary encoder (video playback at 4x speed).
 
 
-https://github.com/user-attachments/assets/c9e24d06-80e8-4847-9cd8-c6cd73896ed7
+https://github.com/user-attachments/assets/639e24a6-889c-4259-ac94-159d52258094
 
