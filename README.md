@@ -11,4 +11,6 @@ A rotary encoder sends two square waves as signals to a given driver. When rotat
 
 
 
-This code emulates that using two digital pins and changing their states in a similar fashion. 
+This code emulates that using two digital pins and changing their states in a similar fashion. Below is the output signal as represented in the Arduino Serial Plotter:
+<img width="1534" height="707" alt="image" src="https://github.com/user-attachments/assets/5d6c89ba-1935-4ae8-8c3b-e68e4a12732f" />
+
